@@ -3,4 +3,4 @@ For base deployments
 
 echo "Update 3" >> log.txt 
 git add . 
-git commit -m "Commit 27"
+git commit -m "Commit 28"
